@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+article {
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: #BEE0FC;
+}
