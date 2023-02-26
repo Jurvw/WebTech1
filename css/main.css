@@ -30,3 +30,10 @@ nav ul{
     display: flex;
     justify-content: space-around;
 }
+
+nav:after {
+    content: ' ';
+    display: block;
+    border: 2px solid rgb(23, 79, 201);
+    margin-top: 4px;
+}

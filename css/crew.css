@@ -1,7 +1,3 @@
-article {
-    margin: 10px;
-}
-
-* {
-    padding-left: 10vw;
+article, h1 {
+    margin-left: 2vw;
 }
