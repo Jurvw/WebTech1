@@ -5,8 +5,8 @@
 }
 
 .cast_table img {
-    height: 24vh;
-    width: 16vh;
+    max-height: 80vh;
+    width: auto;
 }
 
 .cast_table td {
