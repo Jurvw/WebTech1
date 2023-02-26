@@ -1,6 +1,7 @@
 .cast_table {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
 }
 
 .cast_table img {
@@ -9,10 +10,9 @@
 }
 
 .cast_table td {
-    text-align: center;
     padding: 5px;
 }
 
-h1 {
+* {
     text-align: center;
 }
